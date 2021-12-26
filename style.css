@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0% auto;
+}
+
+.header-list {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.header-item {
+    padding: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-link {
+    padding: 10px;
+}
+
+header {
+    background-image: url(./img/pexels-cottonbro-4503751\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 500px;
+    padding: 10px;
+}
+
+.up {
+    color: #156963;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.in {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #156963;
+    width: 100px;
+    display: block;
+    text-align: center;
+}
